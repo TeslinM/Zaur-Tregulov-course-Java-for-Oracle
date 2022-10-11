@@ -8,6 +8,11 @@ public class Student {
     double valueMath;
     double valueEconomic;
     double valueForeign;
+
+    double sredneeArifm(double math, double economic, double foreign) {
+        double result = (math + economic + foreign) / 3;
+        return result;
+    }
 }
 
 class StudentTest {
@@ -16,21 +21,11 @@ class StudentTest {
         Student student2 = new Student();
         Student student3 = new Student();
 
-        student1.valueMath = 6.5;
-        student1.valueEconomic = 7.6;
-        student1.valueForeign = 8.6;
 
-        student2.valueMath = 9.6;
-        student2.valueEconomic = 7.5;
-        student2.valueForeign = 3.2;
 
-        student3.valueMath = 4.6;
-        student3.valueEconomic = 6.9;
-        student3.valueForeign = 9.9;
-
-        System.out.println("Middle value first student: " + ((student1.valueMath + student1.valueEconomic + student1.valueForeign) / 3));
-        System.out.println("Middle value second student: " + ((student2.valueMath + student2.valueEconomic + student2.valueForeign) / 3));
-        System.out.println("Middle value second student: " + ((student2.valueMath + student2.valueEconomic + student2.valueForeign) / 3));
+        System.out.println("Middle value first student: " + student1.sredneeArifm(5.5, 8.6, 6.3));
+        System.out.println("Middle value second student: " + student2.sredneeArifm(4.5, 9.7, 1.2));
+        System.out.println("Middle value second student: " + student3.sredneeArifm(7.5, 4.8, 7.9));
 
     }
 }
