@@ -1,10 +1,6 @@
 package homework;
 
-import org.w3c.dom.ls.LSOutput;
-
-import java.sql.SQLOutput;
-
-public class lesson2 {
+public class Lesson2 {
     public static void main(String[] args) {
         byte b1 = 12;
         byte b2 = 0xc;
