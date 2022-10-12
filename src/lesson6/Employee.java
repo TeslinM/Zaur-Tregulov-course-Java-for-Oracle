@@ -8,7 +8,7 @@ public class Employee {
         this(id2, surname2, age2, 0, null);
     }
 
-    Employee(String surname3, int age3) {
+    public Employee(String surname3, int age3) {
         this(0, surname3, age3, 0, null);
     }
 
