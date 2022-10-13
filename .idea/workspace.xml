@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04f8d87e-73b3-4027-ac84-b380c1d95eed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/homework/Lesson8/FirstClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/Lesson8/Zadacha2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson8/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson8/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson8/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/Lesson9/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/Lesson9/Zadanie1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson9/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson9/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,39 +44,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Zadacha2Test">
-    <configuration name="FirstClassTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.Lesson8.FirstClassTest" />
+  <component name="RunManager" selected="Application.Test3">
+    <configuration name="Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson9.Car" />
       <module name="ZaurJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework.Lesson8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SecondClassTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.Lesson8.SecondClassTest" />
-      <module name="ZaurJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homework.Lesson8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson8.Student" />
-      <module name="ZaurJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson8.*" />
+          <option name="PATTERN" value="lesson9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,11 +59,24 @@
       </method>
     </configuration>
     <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson8.Test1" />
+      <option name="MAIN_CLASS_NAME" value="homework.Lesson9.Test1" />
       <module name="ZaurJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson8.*" />
+          <option name="PATTERN" value="homework.Lesson9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.Lesson9.Test2" />
+      <module name="ZaurJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.Lesson9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +97,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zadacha2Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.Lesson8.Zadacha2Test" />
+    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.Lesson9.Test3" />
       <module name="ZaurJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework.Lesson8.*" />
+          <option name="PATTERN" value="homework.Lesson9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zadanie1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.Lesson9.Zadanie1" />
+      <module name="ZaurJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.Lesson9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Zadacha2Test" />
-        <item itemvalue="Application.SecondClassTest" />
-        <item itemvalue="Application.FirstClassTest" />
+        <item itemvalue="Application.Test3" />
+        <item itemvalue="Application.Test2" />
         <item itemvalue="Application.Test1" />
-        <item itemvalue="Application.Student" />
+        <item itemvalue="Application.Zadanie1" />
+        <item itemvalue="Application.Car" />
       </list>
     </recent_temporary>
   </component>
