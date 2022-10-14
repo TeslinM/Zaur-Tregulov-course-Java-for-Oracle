@@ -5,13 +5,13 @@ public class Car {
     int z = 5;
     int _dsfdgdfg34543fsf = 10;
     String color;
-    int a = 10;
+    public static int ab = 10;
     String engine;
-    static int count;
+    public static int count = 100;
     boolean c = true;
 
 
-    Car(String color, String engine) {
+    public Car(String color, String engine) {
         int x = 5;
         int y = x + 10;
         count++;

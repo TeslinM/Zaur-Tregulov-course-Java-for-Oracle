@@ -1,11 +1,13 @@
 package lesson4;
 
 public class Car {
-    Car (String cvet, String motor) {
+    public Car (String cvet, String motor) {
         color = cvet;
         engine = motor;
         System.out.println("Цвет машины: " + color + "    мотор машины: " + engine);
+    }
 
+    public Car() {
 
     }
 

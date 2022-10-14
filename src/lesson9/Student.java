@@ -1,6 +1,10 @@
 package lesson9;
 
 public class Student {
+        public int a = 10;
+        public static int c = 5;
+        static int f = c;
+        public int z = this.c;
 
 }
 
