@@ -10,9 +10,11 @@ public class Car {
         this.engine=engine;
         this.door=door;
     }
+}
 
-    public void changeDoor(int value) {
-        door = value;
+class CarTest {
+    public void changeDoor(Car c, int value) {
+        c.door = value;
     }
 
     public static void swapColor(Car c1, Car c2) {
@@ -21,23 +23,21 @@ public class Car {
         c1.color = c2.color;
         c2.color = c3.color;
     }
-}
 
-class CarTest {
     public static void main(String[] args) {
+        CarTest ct = new CarTest();
         Car car1 = new Car("blue", "v4", 2);
         Car car2 = new Car("black", "v12", 5);
         System.out.println("количество дверей у машины 1 было: " + car1.door);
         System.out.println("количество дверей у машины 2 было: " + car2.door);
-        car1.changeDoor(4);
-        car2.changeDoor(8);
+        ct.changeDoor(car1, 4);
+        ct.changeDoor(car2, 8);
         System.out.println("количество дверей у машины 1 стало: " + car1.door);
         System.out.println("количество дверей у машины 2 стало: " + car2.door);
         System.out.println("цвет певой машины был: " + car1.color);
         System.out.println("цвет второй машины был: " + car2.color);
-        Car.swapColor(car1, car2);
+        ct.swapColor(car1, car2);
         System.out.println("цвет первой машины стал: " + car1.color);
         System.out.println("цвет второй машины стал: " + car2.color);
-
     }
 }
