@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04f8d87e-73b3-4027-ac84-b380c1d95eed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/homework/Lesson10/p1/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/Lesson10/p1/p2/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/Lesson10/p1/p2/p3/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/Lesson10/p4/D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/Lesson10/p4/p5/E.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson10/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/Lesson11/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson11/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson11/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson4/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson4/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson9/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson9/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson9/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson9/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,13 +43,26 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.D">
+  <component name="RunManager" selected="Application.CarTest">
     <configuration name="A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson10.A" />
       <module name="ZaurJava" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="lesson10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CarTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.Lesson11.CarTest" />
+      <module name="ZaurJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.Lesson11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.Lesson9.Test1" />
+    <configuration name="EmployeeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson11.EmployeeTest" />
       <module name="ZaurJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework.Lesson9.*" />
+          <option name="PATTERN" value="lesson11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.Lesson9.Test2" />
+    <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson11.Student" />
       <module name="ZaurJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework.Lesson9.*" />
+          <option name="PATTERN" value="lesson11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,26 +122,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.Lesson9.Test3" />
-      <module name="ZaurJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homework.Lesson9.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CarTest" />
+        <item itemvalue="Application.Student" />
+        <item itemvalue="Application.EmployeeTest" />
         <item itemvalue="Application.D" />
         <item itemvalue="Application.A" />
-        <item itemvalue="Application.Test3" />
-        <item itemvalue="Application.Test2" />
-        <item itemvalue="Application.Test1" />
       </list>
     </recent_temporary>
   </component>
