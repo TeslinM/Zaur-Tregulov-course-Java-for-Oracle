@@ -29,6 +29,6 @@ public class Month {
 
     public static void main(String[] args) {
         Month month = new Month();
-        month.showDay(4);
+        month.showDay(0);
     }
 }
