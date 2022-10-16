@@ -2,15 +2,15 @@ package homework.Lesson14;
 
 public class Time {
 
-    public void time() {
-        Outer: for(int chas=0; chas<=6; chas++) {
+    public static void time() {
+        Outer: for(int chas=0; chas<6; chas++) {
             Inner1: for(int minuta=0; minuta<=59; minuta++) {
                 if(chas > 1 && minuta % 10 == 0) {
                     break Outer;
                 }
                 Inner2: for(int secunda=0; secunda<=59; secunda++) {
                     if(secunda*chas>minuta) {
-                        break Inner2;
+                        continue Inner1;
                     }
                     System.out.println(chas + ":" + minuta + ":" + secunda);
                 }

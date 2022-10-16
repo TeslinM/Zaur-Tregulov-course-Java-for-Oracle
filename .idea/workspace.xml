@@ -2,16 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04f8d87e-73b3-4027-ac84-b380c1d95eed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/homework/Lesson14/Time.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson14/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson14/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson14/Test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson14/Test4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson14/Test5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson14/Test6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson14/Test7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/Lesson15/Time.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson15/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson15/Test10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson15/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson15/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson15/Test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson15/Test5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson15/Test6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson15/Test7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson15/Test8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson15/Test9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/Lesson13/Month.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/Lesson13/Month.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/Lesson14/Time.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/Lesson14/Time.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,12 +53,12 @@
   }
 }</component>
   <component name="RunManager" selected="Application.Time">
-    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson14.Test2" />
+    <configuration name="Test10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson15.Test10" />
       <module name="ZaurJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson14.*" />
+          <option name="PATTERN" value="lesson15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson14.Test3" />
+    <configuration name="Test7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson15.Test7" />
       <module name="ZaurJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson14.*" />
+          <option name="PATTERN" value="lesson15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson14.Test5" />
+    <configuration name="Test8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson15.Test8" />
       <module name="ZaurJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson14.*" />
+          <option name="PATTERN" value="lesson15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson14.Test6" />
+    <configuration name="Test9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson15.Test9" />
       <module name="ZaurJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson14.*" />
+          <option name="PATTERN" value="lesson15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +119,11 @@
       </method>
     </configuration>
     <configuration name="Time" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.Lesson14.Time" />
+      <option name="MAIN_CLASS_NAME" value="homework.Lesson15.Time" />
       <module name="ZaurJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework.Lesson14.*" />
+          <option name="PATTERN" value="homework.Lesson15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,10 +134,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Time" />
-        <item itemvalue="Application.Test6" />
-        <item itemvalue="Application.Test5" />
-        <item itemvalue="Application.Test3" />
-        <item itemvalue="Application.Test2" />
+        <item itemvalue="Application.Test9" />
+        <item itemvalue="Application.Test10" />
+        <item itemvalue="Application.Test8" />
+        <item itemvalue="Application.Test7" />
       </list>
     </recent_temporary>
   </component>
