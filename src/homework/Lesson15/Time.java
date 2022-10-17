@@ -6,7 +6,7 @@ public class Time {
         int chas = 0;
 
         OUTER:
-        while(chas<24) {
+        while(chas<6) {
             int minuta = 0;
             MIDDLE:
             do {
