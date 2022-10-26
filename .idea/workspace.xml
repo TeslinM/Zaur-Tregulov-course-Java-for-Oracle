@@ -2,25 +2,67 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04f8d87e-73b3-4027-ac84-b380c1d95eed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/homework/Lesson22/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/Lesson22/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/Lesson22/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/Lesson22/Pet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/Lesson22/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/Lesson22/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson22/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson22/Test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson22/Test4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson22/Test5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson22/Test6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson22/Test7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson23/Chelovek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson23/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson23/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson23/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson23/Test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson23/Test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/Lesson22/Y.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/Lesson22/Y1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/Lesson23/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/Lesson23/X.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/Lesson23/X1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/Lesson23/X2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/Lesson23/X4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/Lesson24/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson24/A10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson24/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson24/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson24/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson24/Test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson24/Test5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson24/Test6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson24/Test7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson25/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson25/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson25/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson25/Test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson25/Test5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson25/Test6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson26/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson26/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson26/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson26/Test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson26/Test5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson26/Test6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson26/Test7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson26/Test8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson27/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson27/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson27/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson27/Test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson27/Test5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson27/Test6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson28/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson28/Test10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson28/Test11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson28/Test12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson28/Test13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson28/Test14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson28/Test15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson28/Test16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson28/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson28/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson28/Test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson28/Test5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson28/Test6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson28/Test7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson28/Test8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson28/Test9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson29/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson29/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson29/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson30/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson30/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson31/Test1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,13 +100,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.homework.Lesson22.Test">
-    <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson23.Student" />
+  <component name="RunManager" selected="Application.lesson31.Test1">
+    <configuration name="Samolet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson28.Samolet" />
       <module name="ZaurJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson23.*" />
+          <option name="PATTERN" value="lesson28.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.Lesson22.StudentTest" />
+    <configuration name="StudentInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson30.StudentInfo" />
       <module name="ZaurJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework.Lesson22.*" />
+          <option name="PATTERN" value="lesson30.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +127,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson23.Test" />
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson29.Test1" />
       <module name="ZaurJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson23.*" />
+          <option name="PATTERN" value="lesson29.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson28.Test16" />
+      <module name="ZaurJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson28.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,25 +166,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson23.Test3" />
+    <configuration name="lesson31.Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson31.Test1" />
       <module name="ZaurJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson23.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="homework.Lesson22.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.Lesson22.Test" />
-      <module name="ZaurJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homework.Lesson22.*" />
+          <option name="PATTERN" value="lesson31.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.homework.Lesson22.Test" />
-        <item itemvalue="Application.StudentTest" />
-        <item itemvalue="Application.Student" />
-        <item itemvalue="Application.Test3" />
-        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.lesson31.Test1" />
+        <item itemvalue="Application.StudentInfo" />
+        <item itemvalue="Application.Test1" />
+        <item itemvalue="Application.Samolet" />
+        <item itemvalue="Application.Test16" />
       </list>
     </recent_temporary>
   </component>
